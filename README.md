@@ -20,4 +20,16 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Kishangurav/kleetcode/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Kishangurav/kleetcode/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Kishangurav/kleetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Kishangurav/kleetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
