@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Kishangurav/kleetcode/tree/master/0035-search-insert-position) |
+| [0064-minimum-path-sum](https://github.com/Kishangurav/kleetcode/tree/master/0064-minimum-path-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,9 +28,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Kishangurav/kleetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Kishangurav/kleetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kishangurav/kleetcode/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Kishangurav/kleetcode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
