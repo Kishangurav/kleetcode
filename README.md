@@ -21,9 +21,11 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Kishangurav/kleetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Kishangurav/kleetcode/tree/master/0069-sqrtx) |
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Kishangurav/kleetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Kishangurav/kleetcode/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -38,4 +40,8 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Kishangurav/kleetcode/tree/master/0064-minimum-path-sum) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Kishangurav/kleetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
